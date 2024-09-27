@@ -1,0 +1,14 @@
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.AssemblyInfoInputs.cache
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.AssemblyInfo.cs
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.csproj.CoreCompileInputs.cache
+D:\Documents\Arlita\SensusPenduduk\bin\Debug\net8.0\SensusPenduduk.exe
+D:\Documents\Arlita\SensusPenduduk\bin\Debug\net8.0\SensusPenduduk.deps.json
+D:\Documents\Arlita\SensusPenduduk\bin\Debug\net8.0\SensusPenduduk.runtimeconfig.json
+D:\Documents\Arlita\SensusPenduduk\bin\Debug\net8.0\SensusPenduduk.dll
+D:\Documents\Arlita\SensusPenduduk\bin\Debug\net8.0\SensusPenduduk.pdb
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.dll
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\refint\SensusPenduduk.dll
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.pdb
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\SensusPenduduk.genruntimeconfig.cache
+D:\Documents\Arlita\SensusPenduduk\obj\Debug\net8.0\ref\SensusPenduduk.dll
